@@ -20,7 +20,7 @@ An interactive Power BI dashboard built to analyze and visualize e-commerce sale
 - DAX for custom measures
 
 ## Dashboard Preview
-![Dashboard Screenshot](Dashboard_Screenshot.png)
+![Dashboard Screenshot](Dashboard_screenshot.png)
 
 ## 📁 Download
 You can download the `.pbix` file above and explore it locally in Power BI Desktop.
